@@ -1,0 +1,77 @@
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.staticwebassets.endpoints.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.exe
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.deps.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.runtimeconfig.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\ЛБ 1.pdb
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\NLog.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\NLog.Extensions.Logging.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\NLog.Web.AspNetCore.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\scopedcss\bundle\ЛБ 1.styles.css
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.Up2Date
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\refint\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.pdb
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ЛБ 1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\Ignateva-Anna-kt-41-23-main\ЛБ 1\obj\Debug\net9.0\ref\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\appsettings.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.staticwebassets.endpoints.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.exe
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.deps.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.runtimeconfig.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\ЛБ 1.pdb
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\NLog.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\NLog.Extensions.Logging.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\NLog.Web.AspNetCore.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.sourcelink.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\scopedcss\bundle\ЛБ 1.styles.css
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.csproj.Up2Date
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\refint\ЛБ 1.dll
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.pdb
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ЛБ 1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\3 курс 2 семестр\4 курс\куз\лб 1\ЛБ 1\obj\Debug\net9.0\ref\ЛБ 1.dll
